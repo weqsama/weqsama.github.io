@@ -1,0 +1,26 @@
+div {
+    margin: auto;
+    max-width: 450px;
+}
+
+img {
+    width: 450px;
+    height: 450px; /* set image to be square to match assignment description */
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.highlight {
+    background-color: orange;
+}
+
+.redbold {
+    color: red;
+    font-weight: bold;
+}
+
+.center {
+    text-align: center;
+}
